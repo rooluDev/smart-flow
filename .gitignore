@@ -1,0 +1,31 @@
+# 백엔드 시크릿
+backend/src/main/resources/application-local.yml
+backend/src/main/resources/application-prod.yml
+backend/.env.local
+
+# 프론트엔드 시크릿
+frontend/.env.local
+frontend/.env.production
+
+# Docker
+docker-compose.override.yml
+.env.prod
+
+# Gradle
+backend/.gradle/
+backend/build/
+backend/out/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.DS_Store
+
+# Logs
+*.log
+logs/
