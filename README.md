@@ -31,7 +31,7 @@ SmartFlow: 오늘 일정을 확인하고 Gmail을 살펴볼게요.
 
 ## 화면
 
-<!-- 스크린샷 또는 데모 영상을 여기에 추가하세요 -->
+https://github.com/user-attachments/assets/d9d95c08-8bdb-4a96-9fe0-b0082a97bacb
 
 ---
 
@@ -334,5 +334,5 @@ AI가 코드를 잘 작성하게 하려면 **개발자가 먼저 아키텍처를
 ---
 
 ## ERD
+<img width="619" height="775" alt="스크린샷 2026-05-23 오후 5 00 12" src="https://github.com/user-attachments/assets/ccb4a98f-944a-487e-ab99-9e1c2f4d11f6" />
 
-<!-- ERD 이미지를 여기에 추가하세요 -->
